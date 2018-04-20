@@ -1,5 +1,5 @@
 
-                                                           Online Banking System 
+                                 Online Banking System 
 
 
 
@@ -12,7 +12,7 @@ The project’s primary goals consist of:
 
 
 
-                                                       Online Banking features:
+                                Online Banking features:
 
 ** Registration for online banking by Admin.
 ** Adding Beneficiary account by customer.
@@ -29,7 +29,7 @@ The project’s primary goals consist of:
 
 
 
-																Security:
+				Security:
 
 ** Each and every input is passed through mysql_real_escape_string() to remove special characters from the string 
    so that user can’t submit arbitrary input. It protects from attacks like Sql Injection and Cross Site Scripting(XSS).
@@ -44,11 +44,7 @@ IT NEEDS ATLEAST A MORE EFFECTIVE FILTERING MECHANISM, BETTER HASHING ALGORITHM,
 AND SOME OTHER THINGS TOO.
 
 
-
-
-
-                                                          Database:
-
+                Database:
 
 
 ** The database contains customer, staff & admin tables.
@@ -59,7 +55,7 @@ AND SOME OTHER THINGS TOO.
 
 
 
-										This project is divided into three hierarchical parts: 
+		This project is divided into three hierarchical parts: 
 										
 										
 
@@ -69,7 +65,7 @@ AND SOME OTHER THINGS TOO.
 
 
 
-                                                                    Steps:
+		Steps:
 
 1.Install XAMPP or something similar.
 
